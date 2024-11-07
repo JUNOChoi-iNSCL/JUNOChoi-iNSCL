@@ -1,7 +1,7 @@
 ## Hi there 👋
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJUNOChoi-iNCSL&count_bg=%233D86C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-[![Juno's GitHub stats](https://github-readme-stats.vercel.app/api?username=JUNOChoi-iNCSL)](https://github.com/JUNOChoi-iNCSL/github-readme-stats)
+[![Juno's GitHub stats](https://github-readme-stats.vercel.app/api?username=JUNOChoi-iNCSL)](https://github.com/JUNOChoi-iNSCL/github-readme-stats)
 **JUNOChoi-iNSCL/JUNOChoi-iNSCL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
