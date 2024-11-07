@@ -1,16 +1,5 @@
 ## Hi there 👋
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=JUNOChoi-iNCSL&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=JUNOChoi-iNCSL&show_icons=true">
-  <img alt="" src="[https://raw.githubusercontent.com/JUNOChoi-iNCSL/JUNOChoi-iNCSL/output/github-contribution-grid-snake-dark.svg](https://github-readme-stats.vercel.app/api?username=JUNOChoi-iNCSL&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)">
-</picture>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJUNOChoi-iNCSL&count_bg=%233D86C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-[![Juno's GitHub stats](https://github-readme-stats.vercel.app/api?username=JUNOChoi-iNCSL)](https://github.com/JUNOChoi-iNSCL/github-readme-stats)
-
-
 **JUNOChoi-iNSCL/JUNOChoi-iNSCL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
